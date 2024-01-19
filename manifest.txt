@@ -1,0 +1,5 @@
+Manifest-Version: 1.0  
+Created-By: 1.4.1_01 (Sun Microsystems Inc.)  
+Main-Class: net.codejava.StudentsInsert
+Class-Path: lib\mysql-connector-j-8.3.0.jar
+
